@@ -19,4 +19,4 @@ export function searchMealsByIngredient({ commit }, ing) {
     .then(({ data }) => {
       commit('setMealsByIngredients', data.meals)
     })
-}
+} //
