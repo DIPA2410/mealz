@@ -1,6 +1,6 @@
 # Mealz: Choose Your Recipe!
 **Recipe Search app built with Vue.js**
-<p> This repository is created following alongside [YouTube Tutorial](https://youtu.be/cfiN8lCA3RM) </p>
+<p> This repository is created following alongside https://youtu.be/cfiN8lCA3RM </p>
 
 | Sneak-peek of the website! |
 |----------------------------|
