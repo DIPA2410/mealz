@@ -9,4 +9,4 @@ export function setMealsByIngredients(state, meals) {
 }
 export function setIngredient(state, ingredient) {
   state.ingredient = ingredient
-}
+} //
