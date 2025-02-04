@@ -10,3 +10,4 @@ const app = createApp(App);
 app.use(router).use(store).mount("#app");
 
 app.config.globalProperties.$filters = filters
+
